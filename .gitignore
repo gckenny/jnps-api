@@ -7,6 +7,7 @@ stats.json
 tsconfig.json
 jsconfig.json
 settings.json
+omega-pattern-401613-e86c6b9bd338.json
 
 /.buildroot
 /.e2e
@@ -22,6 +23,7 @@ settings.json
 .idea
 *.swp
 
+/mock/*
 /src/i18n/*
 !/src/i18n/ja
 !/src/i18n/en
