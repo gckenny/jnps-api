@@ -11,5 +11,7 @@ app.use(cors());
 // 監聽端口
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
+  console.log('process=', process);
+  console.log('process.env=', process.env);
   console.log(`Server is running on port ${PORT}`);
 });
