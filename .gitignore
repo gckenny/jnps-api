@@ -27,3 +27,4 @@ omega-pattern-401613-e86c6b9bd338.json
 /src/i18n/*
 !/src/i18n/ja
 !/src/i18n/en
+yarn.lock
